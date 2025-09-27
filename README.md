@@ -1,4 +1,4 @@
-# telecom_clv_portfolio
+
 # Telecom Customer Lifetime Value (CLV) Analysis
 
 This project explores Customer Lifetime Value (CLV) in the telecom industry using MySQL for data preparation and Tableau for visualization.
